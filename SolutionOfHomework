@@ -1,1 +1,16 @@
-imporot 
+public class loop {
+
+	public void whileloop() {
+
+		int a = 1;
+
+		while (a < 10) {
+
+			System.out.print(a);
+			a += 2;
+
+		}
+
+	}
+
+}
